@@ -1,4 +1,4 @@
-## Creating Python Dependencies Package for AWS Lambda Function :
+## Creating Python Dependencies Package for AWS Lambda :
 
 Below is a walk through for packaging the Python Depencdencies for AWS Lambda on Ubuntu Server.
 
