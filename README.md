@@ -5,7 +5,7 @@ Below is a walk through for packaging the Python Depencdencies for AWS Lambda on
 ### Setting up the EC2 Instance-
 
 - Start an ec2 instance with an Ubuntu AMI (free tier).
-
+![AMI](https://github.com/aashish-bidap/Packaging-Lambda-Dependencies/blob/main/ami.png)
 - Securely store the key pair to a directory in order to login via SSH client thorugh terminal.
 
 - Connecting to the EC2 instance using the keypair file
