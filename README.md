@@ -1,6 +1,6 @@
 ## Creating Python Dependencies Package for AWS Lambda :
 
-Below is a walk through for packaging the Python Depencdencies for AWS Lambda on Ubuntu Server.
+Below is a walk through for packaging the Python Depencdencies for AWS Lambda using Ubuntu Server.
 
 ### Setting up the EC2 Instance-
 
